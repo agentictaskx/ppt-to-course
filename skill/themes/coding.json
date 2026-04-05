@@ -1,0 +1,18 @@
+{
+  "name": "Coding",
+  "accent_color": "forest",
+  "metaphor_style": "systems/machines",
+  "actor_generation_hints": "Use software components and abstractions as actors. For an architecture deck: 'Client', 'Server', 'Database'. For a patterns deck: 'Interface', 'Implementation', 'Factory'. For a DevOps deck: 'Pipeline', 'Container', 'Registry'. Frame interactions as system communications — requests, responses, events, errors. Actors should speak in slightly technical but accessible language, like a senior engineer mentoring a junior.",
+  "quiz_style": "debugging_scenarios",
+  "quiz_hint": "Frame questions as debugging puzzles: 'This code produces unexpected output — what's the bug?' or 'Given this error message, which fix resolves the issue?' or 'Which refactoring improves this code without changing behavior?' Include code snippets when relevant. Test pattern recognition and systematic problem-solving, not syntax memorization.",
+  "icon_suggestions": {
+    "concept": "\ud83e\udde9",
+    "process": "\ud83d\udd04",
+    "warning": "\ud83d\udc1b",
+    "insight": "\ud83d\ude80",
+    "data": "\ud83d\uddc3\ufe0f"
+  },
+  "vocabulary_hints": "Define acronyms on first use (API, REST, ORM, CI/CD). For well-known terms among developers, keep glossary entries brief. For cross-cutting concepts (e.g., 'idempotent', 'deterministic'), provide clear definitions with code-relevant examples. Distinguish similar terms (e.g., 'concurrency' vs 'parallelism').",
+  "tone": "Technical, practical, and direct. Write like good documentation — clear, scannable, example-driven. Use 'consider', 'note that', 'this means'. Respect the reader's intelligence but don't assume they know everything. Prefer concrete examples over abstract explanations.",
+  "chart_style_hints": "Use monospace fonts for labels where appropriate. Prefer dark backgrounds with light text for code-related diagrams (terminal aesthetic). Use forest green accent for primary elements, gray for secondary. Flowcharts should use rounded rectangles. Sequence diagrams are preferred for showing interactions. Keep diagrams minimal — if it needs more than 7 boxes, decompose it."
+}

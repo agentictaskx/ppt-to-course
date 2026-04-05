@@ -1,0 +1,21 @@
+# Test files (too large for GitHub)
+*.pptx
+*.ppt
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Output
+output/
+test-output/
+*.png
+
+# OS
+.DS_Store
+Thumbs.db

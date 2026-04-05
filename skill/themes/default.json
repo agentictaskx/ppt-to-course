@@ -1,0 +1,18 @@
+{
+  "name": "Default",
+  "accent_color": "vermillion",
+  "metaphor_style": "everyday",
+  "actor_generation_hints": "Use familiar, everyday objects and concepts as actors. For a productivity deck: 'Task', 'Calendar', 'Energy'. For a strategy deck: 'Goal', 'Obstacle', 'Resource'. Frame interactions as everyday scenarios people immediately recognize — cooking recipes, road trips, building with LEGO. Aim for 3-5 actors that personify the core concepts and can have natural conversations.",
+  "quiz_style": "application",
+  "quiz_hint": "Frame questions as real-world scenarios: 'You're in this situation — what would you do?' or 'A colleague asks you to explain X — which response is most accurate?' Avoid rote recall. Test whether the learner can apply the concept in a new context they haven't seen before.",
+  "icon_suggestions": {
+    "concept": "\ud83d\udca1",
+    "process": "\u2699\ufe0f",
+    "warning": "\u26a0\ufe0f",
+    "insight": "\ud83c\udfaf",
+    "data": "\ud83d\udcca"
+  },
+  "vocabulary_hints": "Define jargon only when it first appears and only if the audience wouldn't know it. Prefer plain language. If a simpler word exists, use it. Glossary entries should feel like a friend explaining, not a dictionary.",
+  "tone": "Friendly, clear, and conversational. Write as if explaining to a smart colleague over coffee. Use 'you' and 'we'. Avoid corporate-speak and buzzwords. Keep energy up without being forced.",
+  "chart_style_hints": "Clean and minimal. Use clear labels, avoid 3D effects. Prefer horizontal bar charts for comparisons, simple line charts for trends. Use the vermillion accent color for emphasis on key data points. White backgrounds, generous spacing."
+}

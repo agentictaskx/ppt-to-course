@@ -1,0 +1,18 @@
+{
+  "name": "Medical",
+  "accent_color": "teal",
+  "metaphor_style": "body_systems",
+  "actor_generation_hints": "Use anatomical structures and physiological processes as actors. For a cardiology deck: 'Heart', 'Artery', 'Blood Pressure'. For a pharmacology deck: 'Drug', 'Receptor', 'Enzyme'. For a pathology deck: 'Pathogen', 'Immune Cell', 'Antibody'. Frame interactions as body systems communicating — signaling pathways, feedback loops, defense mechanisms. Actors should model the elegance and complexity of biological systems, including what happens when things go wrong.",
+  "quiz_style": "diagnostic_reasoning",
+  "quiz_hint": "Frame questions as clinical scenarios: 'A patient presents with these symptoms — what's your differential diagnosis?' or 'Given these lab results, which condition is most likely?' or 'Which treatment addresses the underlying cause rather than just the symptoms?' Teach systematic diagnostic thinking — history, examination, investigation, diagnosis. Include cases where the obvious diagnosis is a red herring.",
+  "icon_suggestions": {
+    "concept": "\ud83e\ude7a",
+    "process": "\ud83d\udc89",
+    "warning": "\u2623\ufe0f",
+    "insight": "\ud83e\udde0",
+    "data": "\ud83e\uddea"
+  },
+  "vocabulary_hints": "Medical terminology demands precision. Always define terms with both the clinical definition and a plain-English explanation. Include etymology for Latin/Greek roots to build vocabulary skills (e.g., 'tachycardia' = tachy- (fast) + cardia (heart)). Distinguish between similar conditions. Define abbreviations on first use (BP, ECG, MRI). Use anatomical terms alongside lay terms ('myocardial infarction (heart attack)').",
+  "tone": "Clinical, empathetic, and evidence-based. Use 'the evidence suggests', 'clinical presentation includes', 'differential diagnosis'. Balance scientific precision with genuine care for patient outcomes. Be honest about uncertainty — medicine rarely deals in absolutes. Use case-based language to keep content grounded in real clinical scenarios.",
+  "chart_style_hints": "Use clinical chart conventions: vital sign trends as line charts with normal range bands, lab results as tables with reference ranges highlighted, anatomical diagrams with clear labels. Use teal accent for normal/healthy indicators, warm colors for abnormal values. Include units for all measurements. Survival curves (Kaplan-Meier) for outcome data. Clean, clinical aesthetic — white backgrounds, professional medical illustration style."
+}

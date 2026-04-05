@@ -1,0 +1,18 @@
+{
+  "name": "Science",
+  "accent_color": "teal",
+  "metaphor_style": "natural_world",
+  "actor_generation_hints": "Use scientific entities and processes as actors. For a biology deck: 'Cell', 'Enzyme', 'DNA'. For a physics deck: 'Photon', 'Electron', 'Field'. For a chemistry deck: 'Molecule', 'Catalyst', 'Reaction'. Frame interactions as the scientific method — one actor proposes a hypothesis, another designs an experiment, a third interprets data. Actors should embody curiosity and rigorous thinking.",
+  "quiz_style": "hypothesis_testing",
+  "quiz_hint": "Frame questions as 'What would happen if...?' or 'Which experiment would test this hypothesis?' or 'Given these observations, what conclusion is supported?' Push learners to think like scientists — predict, test, interpret. Include scenarios where the obvious answer is wrong and the data tells a different story.",
+  "icon_suggestions": {
+    "concept": "\ud83d\udd2c",
+    "process": "\u2697\ufe0f",
+    "warning": "\u2622\ufe0f",
+    "insight": "\ud83d\udca1",
+    "data": "\ud83d\udcca"
+  },
+  "vocabulary_hints": "Be aggressive with glossary entries for Latin/Greek scientific terms. Define every technical term on first use, even if it seems common — 'mitosis', 'entropy', 'catalyst' all deserve a plain-English gloss. Include etymology when it aids understanding (e.g., 'mito-' means thread, referring to chromosome appearance).",
+  "tone": "Curious, precise, and evidence-based. Use 'observe', 'predict', 'test' framing. Celebrate the process of discovery, not just the facts. Ask 'why?' and 'how do we know?' frequently. Be enthusiastic about uncertainty — that's where science lives.",
+  "chart_style_hints": "Use clean, labeled axes with units clearly marked. Prefer line charts for trends and time-series data, scatter plots for correlations, bar charts for categorical comparisons. Include error bars when relevant. Use the teal accent for primary data series. Add gridlines for readability. Label data points directly when possible rather than relying on legends."
+}

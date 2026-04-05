@@ -1,0 +1,18 @@
+{
+  "name": "Finance",
+  "accent_color": "amber",
+  "metaphor_style": "market_dynamics",
+  "actor_generation_hints": "Use economic forces and financial concepts as actors. For a markets deck: 'Supply', 'Demand', 'Price'. For an investing deck: 'Risk', 'Return', 'Diversification'. For a corporate finance deck: 'Revenue', 'Cost', 'Margin'. Frame interactions as market dynamics — actors negotiate, compete, respond to signals, and reach equilibrium. Use trading floor energy: fast-paced, consequential, data-driven.",
+  "quiz_style": "risk_assessment",
+  "quiz_hint": "Frame questions as risk-reward scenarios: 'Given this market condition, which strategy minimizes downside?' or 'What's the opportunity cost of this decision?' or 'Which metric would you monitor to detect this risk early?' Push learners to think probabilistically and consider second-order effects. Include scenarios with incomplete information — real finance rarely has perfect data.",
+  "icon_suggestions": {
+    "concept": "\ud83d\udcb0",
+    "process": "\ud83d\udcc8",
+    "warning": "\ud83d\udcc9",
+    "insight": "\ud83c\udfaf",
+    "data": "\ud83d\udcb9"
+  },
+  "vocabulary_hints": "Define financial jargon precisely — many terms have specific meanings that differ from everyday usage (e.g., 'liquidity', 'leverage', 'hedge'). Include formulas when they clarify (e.g., ROI = (Gain - Cost) / Cost). Distinguish similar concepts (e.g., 'revenue' vs 'profit' vs 'cash flow'). Be especially careful with terms that sound simple but aren't ('risk', 'value', 'growth').",
+  "tone": "Analytical, strategic, and grounded in numbers. Use 'consider the tradeoff', 'the data suggests', 'historically'. Be precise with quantities — avoid vague terms like 'a lot' or 'significant' without numbers. Acknowledge uncertainty explicitly. Maintain professional credibility while remaining accessible to non-finance audiences.",
+  "chart_style_hints": "Financial chart conventions: green for gains/positive, red for losses/negative (use amber accent for neutral emphasis). Candlestick charts for price data, waterfall charts for breakdowns, stacked bars for composition. Always include time axis labels. Use percentage labels alongside absolute values. Include benchmark/comparison lines when relevant. Professional, Bloomberg-terminal aesthetic — dense but readable."
+}

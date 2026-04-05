@@ -1,0 +1,18 @@
+{
+  "name": "Engineering",
+  "accent_color": "coral",
+  "metaphor_style": "construction/building",
+  "actor_generation_hints": "Use engineering components and principles as actors. For a structural deck: 'Load', 'Beam', 'Foundation'. For an electrical deck: 'Current', 'Resistance', 'Capacitor'. For a systems deck: 'Input', 'Controller', 'Feedback Loop'. Frame interactions as construction and design — actors bear loads, transfer forces, maintain tolerances, and fail under stress. Actors should think in terms of constraints, specifications, and safety margins.",
+  "quiz_style": "failure_analysis",
+  "quiz_hint": "Frame questions as failure analysis and root cause investigation: 'This system failed under these conditions — what was the most likely cause?' or 'Which design change would prevent this failure mode?' or 'Given these specifications, which component is the weakest link?' Teach learners to think about edge cases, safety factors, and cascading failures. Include scenarios where the 'obvious' fix creates new problems.",
+  "icon_suggestions": {
+    "concept": "\ud83d\udd27",
+    "process": "\u2699\ufe0f",
+    "warning": "\ud83d\udea7",
+    "insight": "\ud83d\udcd0",
+    "data": "\ud83d\udccf"
+  },
+  "vocabulary_hints": "Define units and standards precisely (SI units, engineering notation). Include tolerance ranges when discussing specifications. Distinguish between theoretical and practical values. Define discipline-specific terms even when they seem basic — 'stress' and 'strain' mean very different things in engineering vs everyday language. Cross-reference related standards (ISO, ASTM) when relevant.",
+  "tone": "Systematic, precise, and safety-conscious. Use 'specify', 'verify', 'validate' framing. Emphasize that engineering is about managing uncertainty and designing for failure modes. Be methodical — present information in logical sequences. Respect the weight of consequences: engineering decisions affect physical safety.",
+  "chart_style_hints": "Use precise technical drawing conventions: clear dimensions, labeled units, consistent scales. Prefer stress-strain curve styling for material data, Gantt charts for project timelines, Pareto charts for failure analysis. Include tolerance bands and safety factor lines. Use coral accent for critical/failure threshold markers. Engineering graph paper aesthetic — gridded, precise, with proper significant figures."
+}

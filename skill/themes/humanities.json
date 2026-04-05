@@ -1,0 +1,18 @@
+{
+  "name": "Humanities",
+  "accent_color": "vermillion",
+  "metaphor_style": "storytelling",
+  "actor_generation_hints": "Use ideas, movements, and perspectives as actors. For a philosophy deck: 'Rationalism', 'Empiricism', 'Pragmatism'. For a history deck: 'Tradition', 'Revolution', 'Compromise'. For a literature deck: 'Author', 'Text', 'Reader'. Frame interactions as intellectual debates and dialogues — actors argue positions, challenge assumptions, synthesize new ideas. Actors should embody the richness and ambiguity of humanistic inquiry, not reduce it to simple answers.",
+  "quiz_style": "perspective_taking",
+  "quiz_hint": "Frame questions as perspective exercises: 'How would [thinker/movement] respond to this argument?' or 'Which interpretation of this text is best supported by the evidence?' or 'What assumption underlies this position?' Push learners to consider multiple viewpoints, recognize biases (including their own), and construct nuanced arguments. Include questions where more than one answer is defensible — the reasoning matters more than the answer.",
+  "icon_suggestions": {
+    "concept": "\ud83d\udcda",
+    "process": "\ud83d\udd8a\ufe0f",
+    "warning": "\u2753",
+    "insight": "\ud83c\udf1f",
+    "data": "\ud83d\udcdc"
+  },
+  "vocabulary_hints": "Define theoretical frameworks and -isms carefully — 'postmodernism', 'structuralism', 'dialectic' are often misused. Provide context for how terms evolved over time and across disciplines. Include original language terms when they add nuance (e.g., 'Zeitgeist', 'jouissance', 'praxis'). Glossary entries should invite further thought, not shut it down.",
+  "tone": "Reflective, nuanced, and intellectually generous. Use 'consider', 'one might argue', 'this raises the question'. Embrace complexity and resist oversimplification. Model the kind of thinking the humanities teach — close reading, critical analysis, empathy across difference. Be comfortable with ambiguity and multiple valid interpretations.",
+  "chart_style_hints": "Prefer timelines for historical context, concept maps for relationships between ideas, Venn diagrams for comparing perspectives. Use vermillion accent for emphasis on key moments or ideas. Avoid overly quantitative aesthetics — humanities data is often qualitative. Use elegant typography and generous whitespace. When showing textual analysis, use annotation-style overlays. Warm, editorial aesthetic — more book design than spreadsheet."
+}

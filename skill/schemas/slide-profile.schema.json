@@ -1,0 +1,177 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Slide Profile",
+  "description": "Structured extraction output from a PowerPoint or PDF slide deck",
+  "type": "object",
+  "required": ["presentation", "slides", "extracted_images"],
+  "properties": {
+    "presentation": {
+      "type": "object",
+      "required": ["title", "slide_count", "source_type", "source_file"],
+      "properties": {
+        "title": { "type": "string", "description": "Presentation title (from title slide or filename)" },
+        "subtitle": { "type": "string", "description": "Presentation subtitle if present" },
+        "author": { "type": "string", "description": "Author name if detected" },
+        "slide_count": { "type": "integer", "minimum": 1, "description": "Total number of slides/pages" },
+        "source_type": {
+          "type": "string",
+          "enum": ["pptx", "pdf"],
+          "description": "Original file format"
+        },
+        "source_file": { "type": "string", "description": "Original filename" },
+        "detected_language": { "type": "string", "description": "Primary language detected (e.g., en, zh, ja)" },
+        "detected_subject": {
+          "type": "string",
+          "enum": ["science", "coding", "finance", "engineering", "medical", "humanities", "general"],
+          "description": "Auto-detected subject domain for theme suggestion"
+        }
+      }
+    },
+    "slides": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/slide" }
+    },
+    "extracted_images": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/extracted_image" }
+    }
+  },
+  "$defs": {
+    "slide": {
+      "type": "object",
+      "required": ["number", "slide_type", "content_blocks"],
+      "properties": {
+        "number": { "type": "integer", "minimum": 1, "description": "Slide number (1-based)" },
+        "title": { "type": "string", "description": "Slide title text if present" },
+        "slide_type": {
+          "type": "string",
+          "enum": [
+            "title",
+            "section_divider",
+            "content",
+            "two_column",
+            "image_heavy",
+            "code",
+            "chart",
+            "table",
+            "blank",
+            "closing"
+          ],
+          "description": "Detected slide layout type"
+        },
+        "content_blocks": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/content_block" },
+          "description": "Ordered list of content elements on the slide"
+        },
+        "speaker_notes": {
+          "type": "string",
+          "description": "Speaker notes text (PPTX only; PDF does not have these)"
+        },
+        "images": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "IDs of images present on this slide (references extracted_images[].id)"
+        },
+        "layout_hints": {
+          "type": "object",
+          "properties": {
+            "has_header": { "type": "boolean", "description": "Whether a header/title area was detected" },
+            "column_count": { "type": "integer", "minimum": 1, "description": "Number of content columns detected" },
+            "dominant_element": {
+              "type": "string",
+              "enum": ["text", "image", "chart", "table", "code", "mixed"],
+              "description": "The primary content type on this slide"
+            }
+          }
+        }
+      }
+    },
+    "content_block": {
+      "type": "object",
+      "required": ["type"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "heading",
+            "subheading",
+            "body_text",
+            "bullet_list",
+            "numbered_list",
+            "code_block",
+            "table",
+            "quote",
+            "caption",
+            "formula"
+          ],
+          "description": "Content block classification"
+        },
+        "content": {
+          "type": "string",
+          "description": "Text content (for headings, body text, quotes, captions, formulas, code blocks)"
+        },
+        "items": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List items (for bullet_list and numbered_list types)"
+        },
+        "formatting": {
+          "type": "object",
+          "properties": {
+            "bold": { "type": "boolean", "default": false },
+            "italic": { "type": "boolean", "default": false },
+            "font_size_pt": { "type": "number", "description": "Font size in points" },
+            "color": { "type": "string", "description": "Hex color value (e.g., #FF0000)" }
+          },
+          "description": "Text formatting metadata"
+        },
+        "position": {
+          "type": "object",
+          "properties": {
+            "left_pct": { "type": "number", "minimum": 0, "maximum": 100 },
+            "top_pct": { "type": "number", "minimum": 0, "maximum": 100 },
+            "width_pct": { "type": "number", "minimum": 0, "maximum": 100 },
+            "height_pct": { "type": "number", "minimum": 0, "maximum": 100 }
+          },
+          "description": "Position as percentage of slide dimensions"
+        }
+      }
+    },
+    "extracted_image": {
+      "type": "object",
+      "required": ["id", "path", "source_slide"],
+      "properties": {
+        "id": { "type": "string", "description": "Unique image identifier (e.g., img-001)" },
+        "path": { "type": "string", "description": "Relative path to extracted image file in assets/" },
+        "source_slide": { "type": "integer", "minimum": 1, "description": "Slide number this image belongs to" },
+        "width": { "type": "integer", "description": "Image width in pixels" },
+        "height": { "type": "integer", "description": "Image height in pixels" },
+        "content_type": {
+          "type": "string",
+          "enum": [
+            "photo",
+            "screenshot",
+            "diagram",
+            "chart",
+            "icon",
+            "logo",
+            "illustration",
+            "table_image",
+            "unknown"
+          ],
+          "description": "Classified image content type"
+        },
+        "description": {
+          "type": "string",
+          "description": "Text description of the image content for accessibility and LLM understanding"
+        },
+        "regenerable": {
+          "type": "boolean",
+          "description": "Whether this image can be recreated as HTML/CSS/SVG (true for charts, diagrams, tables)"
+        }
+      }
+    }
+  }
+}
