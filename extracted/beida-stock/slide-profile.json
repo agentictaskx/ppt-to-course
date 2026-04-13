@@ -1,0 +1,3158 @@
+{
+  "presentation": {
+    "title": "Outreach of Intro to Seismology\u000b\u000b炒股挣钱",
+    "subtitle": "地震概论2026春季学期",
+    "author": "User",
+    "slide_count": 65,
+    "source_type": "pptx",
+    "source_file": "北大炒股课.pptx",
+    "detected_language": "zh",
+    "detected_subject": "general"
+  },
+  "slides": [
+    {
+      "number": 1,
+      "title": "Outreach of Intro to Seismology\u000b\u000b炒股挣钱",
+      "slide_type": "title",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "Outreach of Intro to Seismology\u000b\u000b炒股挣钱",
+          "formatting": {
+            "font_size_pt": 44.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 0.0,
+            "top_pct": 21.65,
+            "width_pct": 100.0,
+            "height_pct": 39.9
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "地震概论2026春季学期",
+          "position": {
+            "left_pct": 16.15,
+            "top_pct": 74.14,
+            "width_pct": 70.0,
+            "height_pct": 16.62
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 2,
+      "title": "第一讲\u000b\u000b概  述",
+      "slide_type": "title",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第一讲\u000b\u000b概  述",
+          "formatting": {
+            "font_size_pt": 58.7,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 5.9,
+            "top_pct": 21.65,
+            "width_pct": 90.56,
+            "height_pct": 39.9
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "地震概论2026春季学期",
+          "position": {
+            "left_pct": 16.15,
+            "top_pct": 74.14,
+            "width_pct": 70.0,
+            "height_pct": 16.62
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "2026.3.25/27",
+          "position": {
+            "left_pct": 16.15,
+            "top_pct": 74.14,
+            "width_pct": 70.0,
+            "height_pct": 16.62
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "body_text"
+      }
+    },
+    {
+      "number": 3,
+      "title": "第一讲  概述",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第一讲  概述",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 26.37,
+            "top_pct": 10.09,
+            "width_pct": 42.53,
+            "height_pct": 7.36
+          }
+        },
+        {
+          "type": "heading",
+          "content": "第1节 股市的本质",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 3.54,
+            "top_pct": 17.45,
+            "width_pct": 91.34,
+            "height_pct": 58.8
+          }
+        },
+        {
+          "type": "heading",
+          "content": "第2节 炒股基础知识",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 3.54,
+            "top_pct": 17.45,
+            "width_pct": 91.34,
+            "height_pct": 58.8
+          }
+        },
+        {
+          "type": "heading",
+          "content": "第3节 股市是较难的一种赚钱方式",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 3.54,
+            "top_pct": 17.45,
+            "width_pct": 91.34,
+            "height_pct": 58.8
+          }
+        },
+        {
+          "type": "heading",
+          "content": "第4节 为什么还要讲炒股？",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 3.54,
+            "top_pct": 17.45,
+            "width_pct": 91.34,
+            "height_pct": 58.8
+          }
+        },
+        {
+          "type": "heading",
+          "content": "第5节 炒股盈利的要诀和原则",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 3.54,
+            "top_pct": 17.45,
+            "width_pct": 91.34,
+            "height_pct": 58.8
+          }
+        },
+        {
+          "type": "heading",
+          "content": "第6节 从炒作的例子探究如何炒股挣钱？",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 3.54,
+            "top_pct": 17.45,
+            "width_pct": 91.34,
+            "height_pct": 58.8
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "炒股挣钱讲座",
+          "formatting": {
+            "color": "898989"
+          },
+          "position": {
+            "left_pct": 34.17,
+            "top_pct": 92.69,
+            "width_pct": 31.67,
+            "height_pct": 5.32
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 4,
+      "title": "第1节 股市的本质",
+      "slide_type": "title",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第1节 股市的本质",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 20.08,
+            "top_pct": 4.85,
+            "width_pct": 50.4,
+            "height_pct": 15.75
+          }
+        },
+        {
+          "type": "heading",
+          "content": "股市的本质是一个为企业提供融资渠道、为投资者提供投资机会的资本市场，其交易的核心标的——股票，代表了购买者对公司的部分所有权‌。这一本质决定了股市在经济中承担着资源配置、价格发现和价值交换的核心功能。‌",
+          "formatting": {
+            "font_size_pt": 43.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 16.41,
+            "width_pct": 95.3,
+            "height_pct": 83.59
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 5,
+      "title": "澄清几点",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "澄清几点",
+          "position": {
+            "left_pct": 34.17,
+            "top_pct": 4.85,
+            "width_pct": 33.95,
+            "height_pct": 15.75
+          }
+        },
+        {
+          "type": "heading",
+          "content": "一、股市的基本功能是融资和资源配置，不是让散户致富的。短期交易是零和博弈（有人赚就有人亏），长期持有指数是正和（经济增长红利）",
+          "formatting": {
+            "font_size_pt": 28.0
+          },
+          "position": {
+            "left_pct": 6.39,
+            "top_pct": 0.0,
+            "width_pct": 87.22,
+            "height_pct": 81.6
+          }
+        },
+        {
+          "type": "heading",
+          "content": "二、市场里谁在赚钱？机构、大资金赚钱，散户多数亏钱。市场不是聪明人赚笨人的钱，而是有系统的人赚没系统的人的钱，有信息优势的人赚没信息优势的人的钱",
+          "formatting": {
+            "font_size_pt": 28.0
+          },
+          "position": {
+            "left_pct": 6.39,
+            "top_pct": 0.0,
+            "width_pct": 87.22,
+            "height_pct": 81.6
+          }
+        },
+        {
+          "type": "heading",
+          "content": "三、市场为什么难？股市的门槛是开户，但真正的门槛是认知。低门槛行业的高利润必然来自高认知。",
+          "formatting": {
+            "font_size_pt": 28.0
+          },
+          "position": {
+            "left_pct": 6.39,
+            "top_pct": 0.0,
+            "width_pct": 87.22,
+            "height_pct": 81.6
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 6,
+      "title": "分析股市的三个维度：宏观、行业、公司",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "分析股市的三个维度：宏观、行业、公司",
+          "formatting": {
+            "font_size_pt": 36.0
+          },
+          "position": {
+            "left_pct": 0.0,
+            "top_pct": 3.8,
+            "width_pct": 94.5,
+            "height_pct": 15.75
+          }
+        },
+        {
+          "type": "heading",
+          "content": "1）宏观维度，理解周期。经济有周期：繁荣、衰退、萧条、复苏，股市是经济的提前反应。为什么有时买什么都涨、有时买什么都跌？这不是能力问题，是周期的问题；",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 2.74,
+            "top_pct": 25.86,
+            "width_pct": 92.93,
+            "height_pct": 76.64
+          }
+        },
+        {
+          "type": "heading",
+          "content": "2）行业维度，理解赛道。行业的生命周期，从初创期、成长期、成熟期，到衰退期。例如房地产，同一个行业在不同阶段的投资逻辑完全不同。选股之前先选行业，而不是看哪个代码顺眼就买哪个；",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 2.74,
+            "top_pct": 25.86,
+            "width_pct": 92.93,
+            "height_pct": 76.64
+          }
+        },
+        {
+          "type": "heading",
+          "content": "3）公司维度，理解质地。三个核心问题：这家公司靠什么赚钱？（商业模式是？）它能持续赚钱吗？（护城河是？）它现在贵不贵（估值的基本逻辑）？",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 2.74,
+            "top_pct": 25.86,
+            "width_pct": 92.93,
+            "height_pct": 76.64
+          }
+        },
+        {
+          "type": "heading",
+          "content": "建立一个基本的分析框架，看到一个股票，不是先问能不能买，而是先问它属于哪个行业、处在什么周期、公司质地如何。 这个框架的价值是帮人避坑，而不是帮他们抓牛股。",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 2.74,
+            "top_pct": 25.86,
+            "width_pct": 92.93,
+            "height_pct": 76.64
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 7,
+      "title": "交易体系的四个模块\u000b找适合自己的交易体系",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "交易体系的四个模块\u000b找适合自己的交易体系",
+          "formatting": {
+            "font_size_pt": 36.0
+          },
+          "position": {
+            "left_pct": 8.26,
+            "top_pct": 7.4,
+            "width_pct": 53.55,
+            "height_pct": 16.35
+          }
+        },
+        {
+          "type": "heading",
+          "content": "1）选股体系。首先，要有原则，做到有边界不越界。只做自己能力圈范围内的东西，看不懂的不碰。不是所有的钱都该你赚，放弃也是一种能力；",
+          "formatting": {
+            "font_size_pt": 24.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 2.74,
+            "top_pct": 18.06,
+            "width_pct": 92.93,
+            "height_pct": 74.54
+          }
+        },
+        {
+          "type": "heading",
+          "content": "2）交易体系。有纪律，不随意。买入有理由，卖出有条件，不是凭感觉。交易不是预测，而是应对；",
+          "formatting": {
+            "font_size_pt": 24.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 2.74,
+            "top_pct": 18.06,
+            "width_pct": 92.93,
+            "height_pct": 74.54
+          }
+        },
+        {
+          "type": "heading",
+          "content": "3）仓位体系。有分配，不赌。 单只股票的上限是多少，不同风险等级的品种如何配置。仓位管理比选股更重要，方向对了仓位轻，赚不了多少钱。方向错了仓位重，一次就出局；",
+          "formatting": {
+            "font_size_pt": 24.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 2.74,
+            "top_pct": 18.06,
+            "width_pct": 92.93,
+            "height_pct": 74.54
+          }
+        },
+        {
+          "type": "heading",
+          "content": "4）风控体系。有底线，不硬扛。亏损到多少必须止损，什么情况下空仓。活下来是第一位，赚钱是第二位。",
+          "formatting": {
+            "font_size_pt": 24.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 2.74,
+            "top_pct": 18.06,
+            "width_pct": 92.93,
+            "height_pct": 74.54
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 8,
+      "title": "不是所有人都适合炒股\u000b怎么办？",
+      "slide_type": "title",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "不是所有人都适合炒股\u000b怎么办？",
+          "formatting": {
+            "font_size_pt": 44.5,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 15.35,
+            "top_pct": 12.17,
+            "width_pct": 53.55,
+            "height_pct": 19.95
+          }
+        },
+        {
+          "type": "heading",
+          "content": "1）那什么样的人适合？既不是聪明的人，也不是学历高的人，而是有耐心的人（能等）、有纪律的人（能守）、有自省能力的人（能改）、能承受波动的人（能扛）等，交易不仅仅只是纯粹的智力游戏，除了智力，它是一个融合了心理学、行为金融学、风险管理以及理性决策的复杂系统。智商固然重要，但交易需要的更多是智慧。",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 25.25,
+            "width_pct": 92.92,
+            "height_pct": 54.58
+          }
+        },
+        {
+          "type": "heading",
+          "content": "2）如果不适合，怎么办？如果赚不到钱就赚不到呗，不玩啦。建议定投指数基金或交给专业的人，远离恶心的股市。因为除了股市，还有生活，还有工作，还有诗和远方！",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 25.25,
+            "width_pct": 92.92,
+            "height_pct": 54.58
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 9,
+      "title": "第2节 炒股基础知识",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第2节 炒股基础知识",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 20.08,
+            "top_pct": 4.85,
+            "width_pct": 50.4,
+            "height_pct": 15.75
+          }
+        },
+        {
+          "type": "heading",
+          "content": "一、股票的定义",
+          "formatting": {
+            "font_size_pt": 36.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 59.84
+          }
+        },
+        {
+          "type": "heading",
+          "content": "二、股票的分类",
+          "formatting": {
+            "font_size_pt": 36.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 59.84
+          }
+        },
+        {
+          "type": "heading",
+          "content": "三、股票的区别",
+          "formatting": {
+            "font_size_pt": 36.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 59.84
+          }
+        },
+        {
+          "type": "heading",
+          "content": "四、中国股市的概况",
+          "formatting": {
+            "font_size_pt": 36.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 59.84
+          }
+        },
+        {
+          "type": "heading",
+          "content": "五、影响股价的因素",
+          "formatting": {
+            "font_size_pt": 36.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 59.84
+          }
+        },
+        {
+          "type": "heading",
+          "content": "六、股票常用术语解释",
+          "formatting": {
+            "font_size_pt": 36.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 59.84
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 10,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_10_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 11,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_11_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 12,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_12_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 13,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "subheading",
+          "content": "科创板688+++北交所92+++",
+          "formatting": {
+            "font_size_pt": 20.0
+          },
+          "position": {
+            "left_pct": 59.45,
+            "top_pct": 32.15,
+            "width_pct": 39.37,
+            "height_pct": 5.25
+          }
+        },
+        {
+          "type": "subheading",
+          "content": "科创、创业板20%北交所30%",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 20.0
+          },
+          "position": {
+            "left_pct": 63.95,
+            "top_pct": 92.0,
+            "width_pct": 35.83,
+            "height_pct": 6.3
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_13_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "subheading"
+      }
+    },
+    {
+      "number": 14,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_14_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 15,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_15_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 16,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_16_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 17,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_17_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 18,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_18_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 19,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_19_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 20,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_20_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 21,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_21_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 22,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_22_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 23,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_23_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 24,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_24_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 25,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_25_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 26,
+      "title": "第3节 股市是较难的一种赚钱方式",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第3节 股市是较难的一种赚钱方式",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 3.8,
+            "width_pct": 85.64,
+            "height_pct": 8.4
+          }
+        },
+        {
+          "type": "heading",
+          "content": "股者要有自知之明，要敬畏市场，不要迷之自信觉得投资容易，不要靠意念炒股决策基于臆测，不要视野短浅听风就是雨想法天天变。没有足够的时间研究、丰富的经验积累、天赋的投资情商，你凭什么跑赢别的投资者？",
+          "formatting": {
+            "font_size_pt": 24.0,
+            "color": "898989"
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 77.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "为什么在股票市场赚钱那么难？投资世界三大定律：",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 77.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "①新晋玩家想在一个古老的行业里发财致富是非常困难的事情！",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 77.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "②行业准入门槛越低，利润越低，要在低门槛行业生存，必须是第一个吃螃蟹的人。",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 77.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "③股市是零和博弈游戏。",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 77.69
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 27,
+      "title": "第3节 股市是较难的一种赚钱方式",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第3节 股市是较难的一种赚钱方式",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 3.8,
+            "width_pct": 85.64,
+            "height_pct": 8.4
+          }
+        },
+        {
+          "type": "heading",
+          "content": "投资者常犯的致命错误：",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "①把投资视为业余爱好，却指望靠业余技能赚钱",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "②人们买张卫生纸都要货比三家，审查一只股票却只花3分钟",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "③有赚它10个亿的野心，却没有坚持3个月的耐性.",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "④绝大多数人只是假装很勤奋，假装在思考",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "⑤只买生，不买熟",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "⑥买时过度自信，买后过度恐慌",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "⑦技术止损",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "⑧追求确定性和买点精准性",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "⑨知识碎片化",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "body_text",
+          "content": "⑩靠意念炒股",
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "heading",
+          "content": "成功需要具备的因素：",
+          "formatting": {
+            "font_size_pt": 40.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        },
+        {
+          "type": "heading",
+          "content": "天命、运气、专注、勤奋、放弃",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 40.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 10.09,
+            "width_pct": 81.7,
+            "height_pct": 82.96
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "body_text"
+      }
+    },
+    {
+      "number": 28,
+      "title": "股市利益金字塔",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "股市利益金字塔",
+          "formatting": {
+            "font_size_pt": 48.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 23.23,
+            "top_pct": 1.92,
+            "width_pct": 51.96,
+            "height_pct": 10.58
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_28_1",
+        "img_28_2"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 29,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_29_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 30,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_30_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 31,
+      "title": "第3节 股市是较难的一种赚钱方式",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第3节 股市是较难的一种赚钱方式",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 3.8,
+            "width_pct": 85.64,
+            "height_pct": 8.4
+          }
+        },
+        {
+          "type": "heading",
+          "content": "纸上得来终觉浅，绝知此事要躬行！",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 77.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "知行合一：知识不是拿来读懂的，知识是拿来实战的。如果你只是停留在看懂、理解的阶段，其实跟那些没看懂的人没本质区别。只有当你真正去付诸行动，才有可能产生变化。人宁愿死于现状，也不愿改变自我。如果你连改变自我的意志力都没有，你在股市成功率几乎为0。",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 77.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "如果不想成功，就没必要烧脑听讲座，更没有必要浪费自己的时间和金钱，生活除了股市，还有诗和远方。股市只是一种投资方式，应该算雕虫小技。其实不炒也罢，你应该去追求属于你的诗和远方。",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 77.69
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 32,
+      "title": "北大学生不用炒股",
+      "slide_type": "title",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "北大学生不用炒股",
+          "position": {
+            "left_pct": 9.84,
+            "top_pct": 8.0,
+            "width_pct": 44.07,
+            "height_pct": 11.35
+          }
+        },
+        {
+          "type": "heading",
+          "content": "北大学生有北大光环的加持，不愁好的工作和社会地位，没有必要怀着侥幸心理、冒巨大风险来股市博弈，四平八稳地享受人生就好啦。股市九死一生，有赌性。",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 5.11,
+            "top_pct": 34.25,
+            "width_pct": 92.92,
+            "height_pct": 64.05
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 33,
+      "title": "北大人为什么炒股赚不着钱？",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "北大人为什么炒股赚不着钱？",
+          "position": {
+            "left_pct": 0.0,
+            "top_pct": 1.7,
+            "width_pct": 61.02,
+            "height_pct": 11.35
+          }
+        },
+        {
+          "type": "heading",
+          "content": "北大务虚、志存千里、不屑脚踏实地。",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 5.11,
+            "top_pct": 34.25,
+            "width_pct": 92.92,
+            "height_pct": 64.05
+          }
+        },
+        {
+          "type": "heading",
+          "content": "自己的意念（我觉得）替代数据图表的趋势。",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 5.11,
+            "top_pct": 34.25,
+            "width_pct": 92.92,
+            "height_pct": 64.05
+          }
+        },
+        {
+          "type": "heading",
+          "content": "遇山想水，见水思山。",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 5.11,
+            "top_pct": 34.25,
+            "width_pct": 92.92,
+            "height_pct": 64.05
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 34,
+      "title": "名人炒股例子",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "名人炒股例子",
+          "position": {
+            "left_pct": 14.56,
+            "top_pct": 3.8,
+            "width_pct": 33.86,
+            "height_pct": 11.35
+          }
+        },
+        {
+          "type": "heading",
+          "content": "蒋中正",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 21.65,
+            "width_pct": 96.07,
+            "height_pct": 76.65
+          }
+        },
+        {
+          "type": "heading",
+          "content": "马克思",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 21.65,
+            "width_pct": 96.07,
+            "height_pct": 76.65
+          }
+        },
+        {
+          "type": "heading",
+          "content": "丘吉尔",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 21.65,
+            "width_pct": 96.07,
+            "height_pct": 76.65
+          }
+        },
+        {
+          "type": "heading",
+          "content": "牛顿",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 21.65,
+            "width_pct": 96.07,
+            "height_pct": 76.65
+          }
+        },
+        {
+          "type": "heading",
+          "content": "杰西利维摩尔",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 21.65,
+            "width_pct": 96.07,
+            "height_pct": 76.65
+          }
+        },
+        {
+          "type": "heading",
+          "content": "爱因斯坦论股市（炒过没有？）",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 1.96,
+            "top_pct": 21.65,
+            "width_pct": 96.07,
+            "height_pct": 76.65
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 35,
+      "title": "第4节 股市有风险。为什么还要讲炒股？",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第4节 股市有风险。为什么还要讲炒股？",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 2.75,
+            "top_pct": 6.95,
+            "width_pct": 92.92,
+            "height_pct": 9.45
+          }
+        },
+        {
+          "type": "heading",
+          "content": "一、通识教育的要求",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 56.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "二、人生基本知识的必备",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 56.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "三、提升投资理财意识（参考《穷爸爸富爸爸》、《小狗钱钱》（推荐）、《财富自由之路》），银行跑不赢通胀",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 56.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "四、不错过一次财务自由的机会（万一你天命注定）",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 56.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "五、事实：所有富人都正面亏损，穷人很难承受亏损",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 56.69
+          }
+        },
+        {
+          "type": "heading",
+          "content": "六、炒股也是一个智力游戏，类似围棋、桥牌和国际象（跳）棋。股市定律：一盈二平七亏损。即只有百分之十的人盈利。",
+          "formatting": {
+            "font_size_pt": 24.0
+          },
+          "position": {
+            "left_pct": 7.67,
+            "top_pct": 16.41,
+            "width_pct": 81.7,
+            "height_pct": 56.69
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 36,
+      "title": "第5节 炒股盈利的要诀：顺势而为",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第5节 炒股盈利的要诀：顺势而为",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 6.68,
+            "top_pct": -0.04,
+            "width_pct": 80.43,
+            "height_pct": 9.45
+          }
+        },
+        {
+          "type": "subheading",
+          "content": "顺势而为是地震概论课程文化的精髓，也是股市盈利的核心逻辑。因为趋势一旦形成，就不会轻易改变。",
+          "formatting": {
+            "font_size_pt": 19.0
+          },
+          "position": {
+            "left_pct": 6.68,
+            "top_pct": 8.01,
+            "width_pct": 83.39,
+            "height_pct": 14.7
+          }
+        },
+        {
+          "type": "subheading",
+          "content": "三个例子：1、猜温度；2、赌大小；3、茅台股票；4、棉花期货",
+          "formatting": {
+            "font_size_pt": 19.0
+          },
+          "position": {
+            "left_pct": 6.68,
+            "top_pct": 8.01,
+            "width_pct": 83.39,
+            "height_pct": 14.7
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_36_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "subheading"
+      }
+    },
+    {
+      "number": 37,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_37_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 38,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_38_1",
+        "img_38_2"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 39,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "趋势两要素",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 28.0,
+            "color": "FFFF00"
+          },
+          "position": {
+            "left_pct": 21.65,
+            "top_pct": 8.0,
+            "width_pct": 20.97,
+            "height_pct": 9.07
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_39_1",
+        "img_39_2"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 40,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "趋势线变三次（变规）行情基本会结束",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 28.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 1.18,
+            "top_pct": 1.7,
+            "width_pct": 73.24,
+            "height_pct": 12.6
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_40_1",
+        "img_40_2"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 41,
+      "title": "第5节 炒股盈利的三大原则",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第5节 炒股盈利的三大原则",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 9.94,
+            "top_pct": -0.04,
+            "width_pct": 77.17,
+            "height_pct": 9.45
+          }
+        },
+        {
+          "type": "heading",
+          "content": "1、保障资本",
+          "formatting": {
+            "font_size_pt": 48.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 9.93,
+            "top_pct": 9.42,
+            "width_pct": 83.39,
+            "height_pct": 75.58
+          }
+        },
+        {
+          "type": "heading",
+          "content": "仓位管理、止损纪律等",
+          "formatting": {
+            "font_size_pt": 28.0
+          },
+          "position": {
+            "left_pct": 9.93,
+            "top_pct": 9.42,
+            "width_pct": 83.39,
+            "height_pct": 75.58
+          }
+        },
+        {
+          "type": "heading",
+          "content": "2、稳健盈利",
+          "formatting": {
+            "font_size_pt": 48.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 9.93,
+            "top_pct": 9.42,
+            "width_pct": 83.39,
+            "height_pct": 75.58
+          }
+        },
+        {
+          "type": "heading",
+          "content": "交易系统、一致性等",
+          "formatting": {
+            "font_size_pt": 28.0
+          },
+          "position": {
+            "left_pct": 9.93,
+            "top_pct": 9.42,
+            "width_pct": 83.39,
+            "height_pct": 75.58
+          }
+        },
+        {
+          "type": "heading",
+          "content": "3、追求卓越",
+          "formatting": {
+            "font_size_pt": 48.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 9.93,
+            "top_pct": 9.42,
+            "width_pct": 83.39,
+            "height_pct": 75.58
+          }
+        },
+        {
+          "type": "heading",
+          "content": "学习再学习、复利、耐心等",
+          "formatting": {
+            "font_size_pt": 28.0
+          },
+          "position": {
+            "left_pct": 9.93,
+            "top_pct": 9.42,
+            "width_pct": 83.39,
+            "height_pct": 75.58
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 42,
+      "title": "两个例子",
+      "slide_type": "title",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "两个例子",
+          "position": {
+            "left_pct": 14.56,
+            "top_pct": 3.8,
+            "width_pct": 33.86,
+            "height_pct": 11.35
+          }
+        },
+        {
+          "type": "heading",
+          "content": "印第安人捕火鸡的故事",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 9.84,
+            "top_pct": 31.1,
+            "width_pct": 73.64,
+            "height_pct": 42.0
+          }
+        },
+        {
+          "type": "heading",
+          "content": "乘坐电梯的快慢",
+          "formatting": {
+            "font_size_pt": 48.0
+          },
+          "position": {
+            "left_pct": 9.84,
+            "top_pct": 31.1,
+            "width_pct": 73.64,
+            "height_pct": 42.0
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 43,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "游击战",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 48.0,
+            "color": "FFFF00"
+          },
+          "position": {
+            "left_pct": 34.25,
+            "top_pct": 8.0,
+            "width_pct": 27.56,
+            "height_pct": 8.4
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_43_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 44,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "炒股挣钱的春夏秋冬",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 28.0,
+            "color": "FFFF00"
+          },
+          "position": {
+            "left_pct": 23.23,
+            "top_pct": 3.8,
+            "width_pct": 37.01,
+            "height_pct": 12.6
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_44_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 45,
+      "title": "四大炒股挣钱法则",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "四大炒股挣钱法则",
+          "position": {
+            "left_pct": 24.8,
+            "top_pct": 1.7,
+            "width_pct": 44.89,
+            "height_pct": 10.5
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_45_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 46,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_46_1",
+        "img_46_2",
+        "img_46_3"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 47,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_47_1",
+        "img_47_2"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 48,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "机会+能力=成功之路（炒股挣钱）",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 44.0,
+            "color": "002060"
+          },
+          "position": {
+            "left_pct": 2.95,
+            "top_pct": 84.97,
+            "width_pct": 94.1,
+            "height_pct": 8.4
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_48_1",
+        "img_48_2"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 49,
+      "title": "第6节 从炒作的例子探究如何炒股挣钱？",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "第6节 从炒作的例子探究如何炒股挣钱？",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 0.0,
+            "top_pct": -0.04,
+            "width_pct": 87.11,
+            "height_pct": 9.45
+          }
+        },
+        {
+          "type": "heading",
+          "content": "1、中国科传601858",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 6.68,
+            "top_pct": 13.26,
+            "width_pct": 83.39,
+            "height_pct": 38.84
+          }
+        },
+        {
+          "type": "heading",
+          "content": "2、大众交通600611",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 6.68,
+            "top_pct": 13.26,
+            "width_pct": 83.39,
+            "height_pct": 38.84
+          }
+        },
+        {
+          "type": "heading",
+          "content": "3、长白山603099",
+          "formatting": {
+            "font_size_pt": 36.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 6.68,
+            "top_pct": 13.26,
+            "width_pct": 83.39,
+            "height_pct": 38.84
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 50,
+      "title": "炒作的例子：中国科传601858",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "炒作的例子：中国科传601858",
+          "formatting": {
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 6.69,
+            "top_pct": 3.8,
+            "width_pct": 70.09,
+            "height_pct": 9.45
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_50_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 51,
+      "title": "例子：大众交通600611",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "body_text",
+          "content": "例子：大众交通600611",
+          "position": {
+            "left_pct": 3.12,
+            "top_pct": 1.92,
+            "width_pct": 75.78,
+            "height_pct": 10.58
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_51_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "body_text"
+      }
+    },
+    {
+      "number": 52,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_52_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 53,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_53_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 54,
+      "title": "例子：长白山603099",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "例子：长白山603099",
+          "position": {
+            "left_pct": 3.12,
+            "top_pct": 1.92,
+            "width_pct": 75.78,
+            "height_pct": 10.58
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_54_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 55,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_55_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 56,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_56_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 57,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_57_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 58,
+      "title": "炒股挣钱的核心要点",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "炒股挣钱的核心要点",
+          "position": {
+            "left_pct": 4.33,
+            "top_pct": 10.1,
+            "width_pct": 51.95,
+            "height_pct": 9.45
+          }
+        },
+        {
+          "type": "heading",
+          "content": "一板定热点",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 8.26,
+            "top_pct": 24.44,
+            "width_pct": 68.51,
+            "height_pct": 70.7
+          }
+        },
+        {
+          "type": "heading",
+          "content": "二板定龙头",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 8.26,
+            "top_pct": 24.44,
+            "width_pct": 68.51,
+            "height_pct": 70.7
+          }
+        },
+        {
+          "type": "heading",
+          "content": "找主线研究",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 8.26,
+            "top_pct": 24.44,
+            "width_pct": 68.51,
+            "height_pct": 70.7
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 59,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_59_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 60,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [],
+      "speaker_notes": "",
+      "images": [
+        "img_60_1"
+      ],
+      "layout_hints": {
+        "has_header": false,
+        "column_count": 1,
+        "dominant_element": "image"
+      }
+    },
+    {
+      "number": 61,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "主力建仓分析",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 28.0,
+            "color": "FFFF00"
+          },
+          "position": {
+            "left_pct": 10.63,
+            "top_pct": 27.43,
+            "width_pct": 6.01,
+            "height_pct": 45.15
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_61_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 62,
+      "title": "炒股挣钱讲座的逻辑和模式",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "炒股挣钱讲座的逻辑和模式",
+          "position": {
+            "left_pct": 1.18,
+            "top_pct": 1.7,
+            "width_pct": 56.7,
+            "height_pct": 11.55
+          }
+        },
+        {
+          "type": "heading",
+          "content": "得主力者得天下",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 0.0,
+            "top_pct": 24.44,
+            "width_pct": 94.1,
+            "height_pct": 70.7
+          }
+        },
+        {
+          "type": "heading",
+          "content": "寻找主力",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 0.0,
+            "top_pct": 24.44,
+            "width_pct": 94.1,
+            "height_pct": 70.7
+          }
+        },
+        {
+          "type": "heading",
+          "content": "跟随主力",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 0.0,
+            "top_pct": 24.44,
+            "width_pct": 94.1,
+            "height_pct": 70.7
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 63,
+      "title": "炒股挣钱讲座的目标",
+      "slide_type": "content",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "炒股挣钱讲座的目标",
+          "position": {
+            "left_pct": 4.33,
+            "top_pct": 10.1,
+            "width_pct": 51.95,
+            "height_pct": 9.45
+          }
+        },
+        {
+          "type": "heading",
+          "content": "会分析结构",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 8.26,
+            "top_pct": 24.44,
+            "width_pct": 77.96,
+            "height_pct": 70.7
+          }
+        },
+        {
+          "type": "heading",
+          "content": "理解主力意图",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 8.26,
+            "top_pct": 24.44,
+            "width_pct": 77.96,
+            "height_pct": 70.7
+          }
+        },
+        {
+          "type": "heading",
+          "content": "只做主升浪",
+          "formatting": {
+            "font_size_pt": 88.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 8.26,
+            "top_pct": 24.44,
+            "width_pct": 77.96,
+            "height_pct": 70.7
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 64,
+      "title": "",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "炒股挣钱的密码",
+          "formatting": {
+            "bold": true,
+            "font_size_pt": 28.0,
+            "color": "FFFF00"
+          },
+          "position": {
+            "left_pct": 27.16,
+            "top_pct": 8.0,
+            "width_pct": 27.56,
+            "height_pct": 10.5
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_64_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 1,
+        "dominant_element": "heading"
+      }
+    },
+    {
+      "number": 65,
+      "title": "谢谢！",
+      "slide_type": "image_heavy",
+      "content_blocks": [
+        {
+          "type": "heading",
+          "content": "谢谢！",
+          "formatting": {
+            "font_size_pt": 66.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 38.19,
+            "top_pct": 32.15,
+            "width_pct": 22.05,
+            "height_pct": 17.85
+          }
+        },
+        {
+          "type": "heading",
+          "content": "地震概论外延讲座：炒股挣钱",
+          "formatting": {
+            "font_size_pt": 28.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 7.81,
+            "top_pct": 67.85,
+            "width_pct": 85.0,
+            "height_pct": 16.81
+          }
+        },
+        {
+          "type": "heading",
+          "content": "2026年春",
+          "formatting": {
+            "font_size_pt": 28.0,
+            "color": "FF0000"
+          },
+          "position": {
+            "left_pct": 7.81,
+            "top_pct": 67.85,
+            "width_pct": 85.0,
+            "height_pct": 16.81
+          }
+        }
+      ],
+      "speaker_notes": "",
+      "images": [
+        "img_65_1"
+      ],
+      "layout_hints": {
+        "has_header": true,
+        "column_count": 2,
+        "dominant_element": "heading"
+      }
+    }
+  ],
+  "extracted_images": [
+    {
+      "id": "img_10_1",
+      "path": "assets/slide10_img1.png",
+      "source_slide": 10,
+      "width": 803,
+      "height": 591,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_11_1",
+      "path": "assets/slide11_img1.png",
+      "source_slide": 11,
+      "width": 802,
+      "height": 586,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_12_1",
+      "path": "assets/slide12_img1.png",
+      "source_slide": 12,
+      "width": 806,
+      "height": 603,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_13_1",
+      "path": "assets/slide13_img1.png",
+      "source_slide": 13,
+      "width": 803,
+      "height": 605,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_14_1",
+      "path": "assets/slide14_img1.png",
+      "source_slide": 14,
+      "width": 802,
+      "height": 600,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_15_1",
+      "path": "assets/slide15_img1.png",
+      "source_slide": 15,
+      "width": 804,
+      "height": 614,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_16_1",
+      "path": "assets/slide16_img1.png",
+      "source_slide": 16,
+      "width": 803,
+      "height": 592,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_17_1",
+      "path": "assets/slide17_img1.png",
+      "source_slide": 17,
+      "width": 804,
+      "height": 603,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_18_1",
+      "path": "assets/slide18_img1.png",
+      "source_slide": 18,
+      "width": 805,
+      "height": 605,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_19_1",
+      "path": "assets/slide19_img1.png",
+      "source_slide": 19,
+      "width": 784,
+      "height": 598,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_20_1",
+      "path": "assets/slide20_img1.png",
+      "source_slide": 20,
+      "width": 805,
+      "height": 604,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_21_1",
+      "path": "assets/slide21_img1.png",
+      "source_slide": 21,
+      "width": 803,
+      "height": 601,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_22_1",
+      "path": "assets/slide22_img1.png",
+      "source_slide": 22,
+      "width": 804,
+      "height": 605,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_23_1",
+      "path": "assets/slide23_img1.png",
+      "source_slide": 23,
+      "width": 801,
+      "height": 602,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_24_1",
+      "path": "assets/slide24_img1.png",
+      "source_slide": 24,
+      "width": 807,
+      "height": 604,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_25_1",
+      "path": "assets/slide25_img1.png",
+      "source_slide": 25,
+      "width": 805,
+      "height": 605,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_28_1",
+      "path": "assets/slide28_img1.png",
+      "source_slide": 28,
+      "width": 292,
+      "height": 381,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_28_2",
+      "path": "assets/slide28_img2.png",
+      "source_slide": 28,
+      "width": 515,
+      "height": 373,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_29_1",
+      "path": "assets/slide29_img1.png",
+      "source_slide": 29,
+      "width": 451,
+      "height": 286,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_30_1",
+      "path": "assets/slide30_img1.png",
+      "source_slide": 30,
+      "width": 806,
+      "height": 319,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_36_1",
+      "path": "assets/slide36_img1.png",
+      "source_slide": 36,
+      "width": 1226,
+      "height": 709,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_37_1",
+      "path": "assets/slide37_img1.png",
+      "source_slide": 37,
+      "width": 1080,
+      "height": 525,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_38_1",
+      "path": "assets/slide38_img1.png",
+      "source_slide": 38,
+      "width": 409,
+      "height": 549,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_38_2",
+      "path": "assets/slide38_img2.png",
+      "source_slide": 38,
+      "width": 884,
+      "height": 788,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_39_1",
+      "path": "assets/slide39_img1.png",
+      "source_slide": 39,
+      "width": 1050,
+      "height": 708,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_39_2",
+      "path": "assets/slide39_img2.png",
+      "source_slide": 39,
+      "width": 325,
+      "height": 645,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_40_1",
+      "path": "assets/slide40_img1.png",
+      "source_slide": 40,
+      "width": 323,
+      "height": 549,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_40_2",
+      "path": "assets/slide40_img2.png",
+      "source_slide": 40,
+      "width": 909,
+      "height": 533,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_43_1",
+      "path": "assets/slide43_img1.png",
+      "source_slide": 43,
+      "width": 805,
+      "height": 318,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_44_1",
+      "path": "assets/slide44_img1.png",
+      "source_slide": 44,
+      "width": 865,
+      "height": 396,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_45_1",
+      "path": "assets/slide45_img1.png",
+      "source_slide": 45,
+      "width": 1114,
+      "height": 656,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_46_1",
+      "path": "assets/slide46_img1.png",
+      "source_slide": 46,
+      "width": 716,
+      "height": 73,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_46_2",
+      "path": "assets/slide46_img2.png",
+      "source_slide": 46,
+      "width": 1416,
+      "height": 556,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_46_3",
+      "path": "assets/slide46_img3.png",
+      "source_slide": 46,
+      "width": 716,
+      "height": 73,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_47_1",
+      "path": "assets/slide47_img1.png",
+      "source_slide": 47,
+      "width": 638,
+      "height": 467,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_47_2",
+      "path": "assets/slide47_img2.png",
+      "source_slide": 47,
+      "width": 707,
+      "height": 70,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_48_1",
+      "path": "assets/slide48_img1.png",
+      "source_slide": 48,
+      "width": 516,
+      "height": 77,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_48_2",
+      "path": "assets/slide48_img2.png",
+      "source_slide": 48,
+      "width": 838,
+      "height": 498,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_50_1",
+      "path": "assets/slide50_img1.png",
+      "source_slide": 50,
+      "width": 1430,
+      "height": 705,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_51_1",
+      "path": "assets/slide51_img1.png",
+      "source_slide": 51,
+      "width": 1328,
+      "height": 863,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_52_1",
+      "path": "assets/slide52_img1.png",
+      "source_slide": 52,
+      "width": 676,
+      "height": 330,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_53_1",
+      "path": "assets/slide53_img1.png",
+      "source_slide": 53,
+      "width": 1200,
+      "height": 894,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_54_1",
+      "path": "assets/slide54_img1.png",
+      "source_slide": 54,
+      "width": 1321,
+      "height": 874,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_55_1",
+      "path": "assets/slide55_img1.png",
+      "source_slide": 55,
+      "width": 1498,
+      "height": 874,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_56_1",
+      "path": "assets/slide56_img1.png",
+      "source_slide": 56,
+      "width": 1326,
+      "height": 889,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_57_1",
+      "path": "assets/slide57_img1.png",
+      "source_slide": 57,
+      "width": 1319,
+      "height": 693,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_59_1",
+      "path": "assets/slide59_img1.png",
+      "source_slide": 59,
+      "width": 807,
+      "height": 589,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_60_1",
+      "path": "assets/slide60_img1.png",
+      "source_slide": 60,
+      "width": 734,
+      "height": 400,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_61_1",
+      "path": "assets/slide61_img1.png",
+      "source_slide": 61,
+      "width": 1015,
+      "height": 815,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_64_1",
+      "path": "assets/slide64_img1.png",
+      "source_slide": 64,
+      "width": 1325,
+      "height": 573,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    },
+    {
+      "id": "img_65_1",
+      "path": "assets/slide65_img1.jpg",
+      "source_slide": 65,
+      "width": 1080,
+      "height": 712,
+      "content_type": "unknown",
+      "description": "",
+      "regenerable": false
+    }
+  ]
+}

@@ -9,6 +9,8 @@ Transform slide decks into interactive, single-page HTML courses. Extract conten
 
 **You do NOT generate HTML, CSS, or JavaScript.** You generate JSON that conforms to the course content schema. The build script (`build/compile.js`) assembles the final course from your JSON + static templates.
 
+> **⚠️ CONCURRENCY RULE:** Never read multiple image files (PNG, JPG) in parallel. Always read images **one at a time, sequentially**. Reading multiple images in a single parallel tool call causes API Error 400 ("tool use concurrency issues"). This applies to reference slides, asset images, and any other image files.
+
 ## Workflow
 
 ### Step 1: First-Run Welcome
@@ -45,7 +47,7 @@ If given a URL, download the file first.
 4. **Both scripts produce:**
    - `slide-profile.json` -- structured extraction conforming to `schemas/slide-profile.schema.json`
    - `assets/` -- extracted images
-   - `references/` -- reference renders of each slide as PNG (for LLM visual inspection)
+   - `references/` -- reference renders of each slide as PNG (for LLM visual inspection; read ONE AT A TIME, never in parallel)
 
 5. **Show summary and wait for confirmation:**
 
@@ -86,7 +88,7 @@ Generate course content as JSON conforming to `schemas/course-content.schema.jso
 - Use the **Slide -> Course Element Mapping Table** (below) to decide how each slide's content translates
 - Apply the **Image Handling Strategy** (below) for all visuals
 - Use the theme's `metaphor_style`, `quiz_style`, `tone`, and `actor_generation_hints`
-- Read reference images from `references/` to visually inspect charts/diagrams the text extraction may have missed
+- Read reference images from `references/` to visually inspect charts/diagrams the text extraction may have missed. **IMPORTANT: Read reference images ONE AT A TIME, sequentially -- never read multiple image files in a single parallel tool call.** For each module, read only the reference slides relevant to that module's slide range before generating its content.
 
 **Output:** Write `course-content.json` to the output directory.
 
@@ -210,7 +212,7 @@ Photos, complex illustrations, screenshots, logos -> embed as base64 `<img>` ins
 - Brand logos and icons
 - Any diagram too complex to faithfully regenerate
 
-Read the image file from `assets/`, base64-encode it, and embed:
+Read the image file from `assets/`, base64-encode it, and embed. **Read each image file individually -- never read multiple asset images in parallel.**
 ```html
 <img src="data:image/png;base64,..." alt="Description" style="max-width:100%;border-radius:8px;">
 ```
